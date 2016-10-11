@@ -77,6 +77,10 @@ on systems that meet the following requirements:
 * Ubuntu 14.04 (Trusty)
 * gcc version 4.8.4
 
+Cartographer is known to currently have the following limitations:
+
+* 32-bit builds are likely to have libeigen alignment problems which may cause crashes or memory corruptions.
+
 How to cite us
 ==============
 
